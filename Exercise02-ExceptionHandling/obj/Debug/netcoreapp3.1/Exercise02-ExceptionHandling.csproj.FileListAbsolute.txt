@@ -1,0 +1,11 @@
+C:\Users\Israilla\source\repos\Exercise02-ExceptionHandling\Exercise02-ExceptionHandling\bin\Debug\netcoreapp3.1\Exercise02-ExceptionHandling.exe
+C:\Users\Israilla\source\repos\Exercise02-ExceptionHandling\Exercise02-ExceptionHandling\bin\Debug\netcoreapp3.1\Exercise02-ExceptionHandling.deps.json
+C:\Users\Israilla\source\repos\Exercise02-ExceptionHandling\Exercise02-ExceptionHandling\bin\Debug\netcoreapp3.1\Exercise02-ExceptionHandling.runtimeconfig.json
+C:\Users\Israilla\source\repos\Exercise02-ExceptionHandling\Exercise02-ExceptionHandling\bin\Debug\netcoreapp3.1\Exercise02-ExceptionHandling.runtimeconfig.dev.json
+C:\Users\Israilla\source\repos\Exercise02-ExceptionHandling\Exercise02-ExceptionHandling\bin\Debug\netcoreapp3.1\Exercise02-ExceptionHandling.dll
+C:\Users\Israilla\source\repos\Exercise02-ExceptionHandling\Exercise02-ExceptionHandling\bin\Debug\netcoreapp3.1\Exercise02-ExceptionHandling.pdb
+C:\Users\Israilla\source\repos\Exercise02-ExceptionHandling\Exercise02-ExceptionHandling\obj\Debug\netcoreapp3.1\Exercise02-ExceptionHandling.csprojAssemblyReference.cache
+C:\Users\Israilla\source\repos\Exercise02-ExceptionHandling\Exercise02-ExceptionHandling\obj\Debug\netcoreapp3.1\Exercise02-ExceptionHandling.AssemblyInfoInputs.cache
+C:\Users\Israilla\source\repos\Exercise02-ExceptionHandling\Exercise02-ExceptionHandling\obj\Debug\netcoreapp3.1\Exercise02-ExceptionHandling.AssemblyInfo.cs
+C:\Users\Israilla\source\repos\Exercise02-ExceptionHandling\Exercise02-ExceptionHandling\obj\Debug\netcoreapp3.1\Exercise02-ExceptionHandling.dll
+C:\Users\Israilla\source\repos\Exercise02-ExceptionHandling\Exercise02-ExceptionHandling\obj\Debug\netcoreapp3.1\Exercise02-ExceptionHandling.pdb
